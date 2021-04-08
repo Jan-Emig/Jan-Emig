@@ -1,4 +1,4 @@
-#"Welcome to the present moment. Here. Now. The only moment there ever is."
+# "Welcome to the present moment. Here. Now. The only moment there ever is."
 ## - Eckhart Tolle
 ---
 

@@ -1,4 +1,5 @@
-<h3>"Welcome to the present moment. Here. Now. The only moment there ever is."</h4> (Eckhart Tolle)
+<h3>"Welcome to the present moment. Here. Now. The only moment there ever is.
+  - Eckhart Tolle"</h4>
 
 - 👋 Hi, I’m @Jan-Emig
 - 👀 I’m interested in ...

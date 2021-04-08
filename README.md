@@ -1,4 +1,4 @@
-<span style="font-size:30px">"Welcome to the present moment. Here. Now. The only moment there ever is."</span>
+<h3>"Welcome to the present moment. Here. Now. The only moment there ever is."</h4>
 
 - 👋 Hi, I’m @Jan-Emig
 - 👀 I’m interested in ...

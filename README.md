@@ -1,8 +1,12 @@
-<h3>"Welcome to the present moment. Here. Now. The only moment there ever is."<br>
-  - Eckhart Tolle</h4>
+<h3>"Welcome to the present moment. Here. Now. The only moment there ever is." (Eckhart Tolle)</h3>
+
+
+![alt text]("https://github.com/Jan-Emig/Jan-Emig/assets/skills.svg")
 
 - 👋 Hi, I’m @Jan-Emig
 - 👀 I’m interested in ...
 - 🌱 I’m currently learning ...
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
+"The only way of finding the limits of the possible is by going beyond them into the impossible."
+- Arthur C. Clarke

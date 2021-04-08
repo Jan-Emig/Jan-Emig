@@ -1,6 +1,5 @@
-### "Welcome to the present moment. Here. Now. The only moment there ever is."
-#### - Eckhart Tolle
----
+"Welcome to the present moment. Here. Now. The only moment there ever is."
+===
 
 - 👋 Hi, I’m @Jan-Emig
 - 👀 I’m interested in ...

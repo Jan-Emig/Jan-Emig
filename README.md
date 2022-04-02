@@ -7,8 +7,9 @@
   </a>
 </p>
 
-<p align="center">
-  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Jan-Emig&layout=compact)](https://github.com/anuraghazra/github-readme-stats)  
+<a href="https://github.com/Jan-Emig/github-readme-stats">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Jan-Emig&repo=github-readme-stats" />
+</a>
 </p>
 
 

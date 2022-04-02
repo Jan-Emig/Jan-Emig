@@ -7,7 +7,7 @@
   </a>
 </p>
 
-<a href="https://github.com/Jan-Emig/github-readme-stats">
+<a href="https://github.com/anuraghazra/github-readme-stats">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Jan-Emig&repo=github-readme-stats" />
 </a>
 </p>

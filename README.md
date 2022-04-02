@@ -7,7 +7,7 @@
   </a>
 </p>
 
-<a href="https://github-readme-stats.vercel.app/api/top-langs/?username=Jan-Emig&layout=compact">
+<a align="center" href="https://github-readme-stats.vercel.app/api/top-langs/?username=Jan-Emig&layout=compact">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Jan-Emig&layout=compact" />
 </a>
 

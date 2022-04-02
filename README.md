@@ -6,3 +6,5 @@
     <img src="https://skillicons.dev/icons?i=docker,mysql,laravel,js,nodejs,react" />
   </a>
 </p>
+
+<img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=anuraghazra&repo=github-readme-stats" />

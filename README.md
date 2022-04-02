@@ -9,6 +9,6 @@
 
 <div align="center">
   <div style="display: flex; align-items: flex-start;">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Jan-Emig&layout=compact)"/>
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Jan-Emig&layout=compact"/>
   </div>
 </div>
